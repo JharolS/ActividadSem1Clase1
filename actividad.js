@@ -1,5 +1,5 @@
-let altura=prompt("Ingrese altura","",""); 
-let peso=prompt();
+let altura=1.75; 
+let peso=73;
 
 let indiceMasaCorporal = peso/(altura**2)
 
